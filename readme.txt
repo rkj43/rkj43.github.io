@@ -1,130 +1,16 @@
+I've utilized the KARDS template for my personal vCard website. This modern and clean template offers a plethora of advanced features typical of premium templates. It encompasses a timeline, stats section, skill bars, a functional ajax form, frontend form validation, and a portfolio section. The template is optimized for all devices, from mobile to desktop, and is also retina-ready, ensuring a sharp and crisp display.
 
-==================================================================================================
+License Acknowledgment:
+The KARDS template is licensed under the Creative Commons Attribution 3.0 License. I've adhered to the conditions stipulated by the license, including proper attribution. The original work has been credited to Styleshout.
 
-KARDS is a modern and clean personal vCard website template. It has many cool features found
-in premium templates. It has timeline items, stats section, skillbars, working ajax form,
-frontend form validation, a portfolio section to showcase your works and many more. It looks 
-great on all devices from mobile to desktop. It's also retina ready so your site will look 
-crisp and sharp on any device. Kards is the ideal template for creating digital personal resume 
-and portfolio website.
+Support & Tutorials:
+While KARDS doesn't offer direct support since it's a free distribution, I've taken the initiative to enhance my web development skills by referring to various tutorials. These tutorials have been instrumental in understanding the intricacies of HTML, CSS, and jQuery.
 
-==================================================================================================
+Resources & Credits:
+I'd like to acknowledge the following resources that have been instrumental in the development of my website:
 
-
-LICENSE:
-KARDS is released under the Creative Commons Attribution 3.0 License
-(http://creativecommons.org/licenses/by/3.0/). This means that you are free:
-
-   to Share - to copy, distribute, display, and perform the work
-   to Remix - to make derivative works
-   to make commercial use of the work 
-
-Under the following conditions:
-
-   Attribution - You must attribute the work in the manner specified by the 
-   author or licensor (but not in any way that suggests that they endorse you 
-   or your use of the work). 
-
-   For any reuse or distribution, you must make clear to others the license 
-   terms of this work
-
-   Any of these conditions can be waived if you get permission from the 
-   copyright holder
-
-Attribution: 
-	
-   You must include a credit link to our website(http://www.Styleshout.com) somewhere on
-   your site. We prefer the footer credit that comes with the template but you are still 
-   free to move it somewhere else.
-
-
------------------------------------------------------------------------------------------------------
-
-
-REMOVING THE LINK:
-
-We understand that there are situations where you want to use the template without the 
-crediting obligation. If that's your case, you can always send us a 
-credit removal fee of 10 USD through Paypal. This will allow you to use the 
-template attribution/credit link free on ONE DOMAIN name. 
-
-You can send your payments through Paypal to this address: ealigam@gmail.com
-
-If possible, kindly send us the site's url where the template is being used. 
-Also, keep your Paypal receipt as proof of payment and your good to go.
-
-
------------------------------------------------------------------------------------------------------- 
-
-
-SUPPORT:
-    
-Since KARDS is distributed for free, support is not offered. KARDS is coded according 
-to current web standards and we did our best to make the template easy to use and modify.
-If you have minimum web development experience, you can easily modify the template. 
-However, If you're still new to HTML and CSS, I suggest that you visit the 
-following tutorials:
-
- - http://tutsplus.com/course/30-days-to-learn-html-and-css/
- - http://learn.shayhowe.com/html-css/
-
-These will teach you the essentials of HTML and CSS. In addition, if you want to include
-jQuery in your skill-set, you can also check out these tutorials: 
-
- - http://code.tutsplus.com/courses/30-days-to-learn-jquery
- - http://try.jquery.com/
-
-
------------------------------------------------------------------------------------------------------- 
-
-
-GET THE LATEST VERSION:
-
-We update our templates on a regular basis so to make sure that you have the latest version, 
-always download the template files directly at our website(http://www.styleshout.com/)
-
-
-
--------------------------------------------------------------------------------------------------------
-
-
-SOURCES AND CREDITS:
-
-I've used the following resources as listed.
-
-Fonts:
- - Lora Font (https://www.google.com/fonts/specimen/Lora)
- - Poppins Font (https://www.google.com/fonts/specimen/Poppins) 
-
-Icons:
- - Font Awesome (http://fortawesome.github.io/Font-Awesome/)
- - Micons (http://geticonjar.com/freebies/231-micons/)
- - Micons webfont generated by ICOMOON (https://icomoon.io/)
-
-Stock Photos and Graphics:
- - UnSplash.com (http://unsplash.com/)
- - gratisography.com (http://www.gratisography.com/)
- 
-Javascript Files:
-
- - JQuery (http://jquery.com/)
- - Modernizr (http://modernizr.com/)
- - Waypoints (http://imakewebthings.com/jquery-waypoints/)
- - Magnific Popup (http://dimsemenov.com/plugins/magnific-popup/)
- - jQuery Placeholder (https://github.com/mathiasbynens/jquery-placeholder)
- - FitVids (http://fitvidsjs.com/)
- - Fittext (http://fittextjs.com/)
- - jQuery Validator (http://jqueryvalidation.org/)
- - Imagesloaded (http://imagesloaded.desandro.com/)
- - Masonry (http://masonry.desandro.com)
- - pace js (http://github.hubspot.com/pace/) 
- - owl carousel (http://www.owlgraphic.com/owlcarousel/)
-
- 
-
---------------------------------------------------------------------------------------------------------- 
-
-
-Thanks for downloading from Styleshout :)
-  
-
+Fonts: Lora Font, Poppins Font
+Icons: Font Awesome, Micons, Micons webfont by ICOMOON
+Stock Photos: UnSplash.com, gratisography.com
+Javascript Files: JQuery, Modernizr, Waypoints, Magnific Popup, jQuery Placeholder, FitVids, Fittext, jQuery Validator, Imagesloaded, Masonry, pace js, owl carousel.
+A heartfelt thank you to Styleshout for providing such a versatile template. Your contribution to the web development community is truly commendable.
