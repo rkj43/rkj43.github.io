@@ -49,6 +49,13 @@
 .fa-ul > li {
   position: relative;
 }
+.hashnode {
+
+  width: 33px;  /* Adjust the width as per your requirement */
+  height: 33px; /* Adjust the height as per your requirement */
+
+}
+
 .fa-li {
   position: absolute;
   left: -2.14285714em;

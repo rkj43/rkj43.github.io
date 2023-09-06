@@ -2739,4 +2739,17 @@ ulc,lic{
   ulc lic{
 	margin:1em;
   }
+
+  #articleContent a {
+    font-size: 24px;
+    color: #007BFF;  /* Link color */
+    text-decoration: none;
+}
+
+#articleContent a:hover {
+    text-decoration: underline;
+}
+
+
+
 /*# sourceMappingURL=main.css.map */
