@@ -2749,7 +2749,15 @@ ulc,lic{
 #articleContent a:hover {
     text-decoration: underline;
 }
-
+/* Media query for devices with max-width of 768px (typical breakpoint for tablets and below) */
+@media (max-width: 768px) {
+	ulc lic ac:hover, ulc lic ac:focus {
+	  /* Reset the transform property for mobile devices */
+	  transform: none;
+	  /* Optional: You can adjust the box-shadow or other properties for mobile hover if needed */
+	  box-shadow: 5px 5px 7px rgba(0,0,0,.7);
+	}
+  }
 
 
 /*# sourceMappingURL=main.css.map */
